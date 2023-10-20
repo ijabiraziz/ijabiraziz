@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jabir Aziz</h1>
 <h3 align="center">A passionate Python developer</h3>
 
-<p align="left"> <a href="https://twitter.com/ijabiraziz/" target="blank"><img src="https://img.shields.io/twitter/follow/ijabiraziz/?logo=twitter&style=for-the-badge" alt="ijabiraziz/" /></a> </p>
 
 - 🌱 I’m currently learning **Advance SQL, Apache airflow and AWS.**
 
