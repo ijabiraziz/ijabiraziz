@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/ijabiraziz" target="blank"><img src="https://img.shields.io/twitter/follow/ijabiraziz?logo=twitter&style=for-the-badge" alt="ijabiraziz" /></a> </p>
 
-- 🌱 I’m currently learning **Advance SQL, Apache airflow and AWS.**
+- 🌱 I’m currently learning **Advance SQL, AWS and ci/cd.**
 
-- 💬 Ask me about **Data, Data Analysis, Data Scraping & Data Manipulation**
+- 💬 Ask me about **Django, API development, Data Scraping & Data Manipulation**
 
 - 📫 How to reach me **ijabiraziz@gmail.com**
 
