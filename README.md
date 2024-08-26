@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advance SQL, AWS and ci/cd.**
 
-- 💬 Ask me about **Django, API development, Data Scraping & Data Manipulation**
+- 💬 Ask me about **Django, API Development, Data Scraping & Data Manipulation**
 
 - 📫 How to reach me **ijabiraziz@gmail.com**
 
