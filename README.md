@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ijabiraziz" target="blank"><img src="https://img.shields.io/twitter/follow/ijabiraziz?logo=twitter&style=for-the-badge" alt="ijabiraziz" /></a> </p>
 
-- 🌱 I’m currently learning **Advance SQL, AWS and ci/cd.**
+- 🌱 I’m currently learning **Advance SQL, AWS and CI/CD.**
 
 - 💬 Ask me about **Django, API Development, Data Scraping & Data Manipulation**
 
