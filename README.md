@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **Advance SQL, AWS and CI/CD.**
 
-- 💬 Ask me about **Python, Django,Django REST Framework (DRF), API Development, Data Scraping & Data Manipulation**
+- 💬 Ask me about **Python, Django,Django REST Framework (DRF),
+   API Development, Data Scraping & Data Manipulation**
 
 - 📫 How to reach me **ijabiraziz@gmail.com**
 
