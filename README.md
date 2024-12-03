@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jabir Aziz</h1>
-<h3 align="center">A passionate Python developer</h3>
+<h3 align="center">Backend Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ijabiraziz&label=Profile%20views&color=0e75b6&style=flat" alt="ijabiraziz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ijabiraziz" target="blank"><img src="https://img.shields.io/twitter/follow/ijabiraziz?logo=twitter&style=for-the-badge" alt="ijabiraziz" /></a> </p>
 
-- 🌱 I’m currently learning **Advance SQL, AWS and CI/CD.**
+- 🌱 I’m currently learning **AWS and CI/CD.**
 
-- 💬 Ask me about **Python, Django, DRF, Flask, 
+- 💬 Ask me about **Python, Django, Flask, REST 
    API Development, Data Scraping & Data Manipulation**
 
 - 📫 How to reach me **ijabiraziz@gmail.com**
