@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS and CI/CD.**
 
-- 💬 Ask me about **Python, Django, Flask, REST, Databases**
+- 💬 Ask me about **Python, Django, Flask, RESTful Api, Databases(SQL & NoSQL), DB Schema Design**
 
 - 📫 How to reach me **ijabiraziz@gmail.com**
 
